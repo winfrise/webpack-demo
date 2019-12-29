@@ -1,2 +1,2 @@
 import '../style/main.css'
-alert('home page')
+console.log('home page')
